@@ -12,3 +12,7 @@
 ##  Trello
 
 - [space_operators.trello](https://trello.com/b/rjoWdFXi/space-operators)
+
+## Présentation
+
+-[space_operators.ppt](https://docs.google.com/presentation/d/15Y1nZsR6oXmG1HyayOt71q7t4tfx-LnxPd1UqHb1ePQ/edit?usp=sharing)
